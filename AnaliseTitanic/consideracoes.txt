@@ -1,0 +1,3 @@
+--> Importar a base
+--> Utilizar ydata_profiling
+--> Utilizar DataClean: limpar a base de dados
